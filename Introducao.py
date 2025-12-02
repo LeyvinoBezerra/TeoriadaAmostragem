@@ -1,9 +1,9 @@
 # ============================================================
 # Projeto: Teoria da Amostragem
-# Autor: Leyvino Bezerra do nascimento
+# Autor: Leyvino Bezerra do Nascimento
 # Data: 02/12/2025
 # Descrição: Algoritmo da disciplina Estatistica com o conteudo do
-# Professor Iranildo Guimaraes sobre Teoria da Amostragem em Python.
+# Professor Iranildo Guimaraes, sobre a Teoria da Amostragem em Python.
 # ============================================================
 
 
