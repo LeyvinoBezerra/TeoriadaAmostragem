@@ -108,12 +108,9 @@ print ("Amostra selecionada :", amostra)
 # que representa na população, garantindo representatividade e precisão.
 # Exemplo em Python:
 
-
-
 A = list(range(1, 201))
 B = list(range(201, 301))
 C = list(range(301, 351))
-
 
 amostra_A = rd.sample(A, 20)
 amostra_B = rd.sample(B, 10)
