@@ -61,7 +61,9 @@
 
 import random as rd
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
+
 
 populacao = list (range(1 , 11) )
 amostra = rd.sample(populacao, 3)
@@ -89,7 +91,7 @@ inicio = rd.randint (1 , k )
 amostra = list (range (inicio ,N +1 ,k ))
 print('Amostragem Sistemática:')
 print ("Amostra selecionada :", amostra)
-
+# ============================================================
 # Amostragem Estratificada
 # A população é dividida em estratos homogêneos e amostras são retiradas de cada estrato.
 # Exemplo Numérico:
@@ -121,6 +123,7 @@ amostra_total = amostra_A + amostra_B + amostra_C
 print('Amostragem Estratificada:', amostra_total)
 print('Tamanho da amostra total:', len(amostra_total))
 
+# ============================================================
 
 
 
